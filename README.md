@@ -1,4 +1,5 @@
-[![MasterHead](https://images.ctfassets.net/9i3f0j4g4w7c/2j2zuDQ9rLL6jaWlK1RmhW/35375c401cfcebb6101786eeb24132ce/quotes-social-resize_quotes-thich-nhat-hanh-og-thumbnail.jpg)](https://github.com/supernhilty)
+<p align="center"> <img src="https://i.pinimg.com/originals/05/1e/7b/051e7b594fd55e187af69884b9723945.gif" alt="supernhilty" /> </p>
+
 <h1 align="center">Hi 👋, I'm Nhi</h1>
 <h3 align="center">Eager to continue learning and growing to become a professional in Information Technology Major</h3>
 <img align="right" alt="peace" width="400" src="https://i.pinimg.com/564x/c1/b1/e4/c1b1e4683ec8c106f5053e8f2efc19c2.jpg"> 
