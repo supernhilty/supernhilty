@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/05/1e/7b/051e7b594fd55e187af69884b9723945.gif" alt="supernhilty" /> </p>
 
 <h1 align="center">Hi 👋, I'm Nhi</h1>
-<h3 align="center">Eager to continue learning and growing to become a professional in Information Technology Major</h3>
+<h3 align="center">"Breathe my dear"</h3>
 <img align="right" alt="peace" width="400" src="https://i.pinimg.com/564x/c1/b1/e4/c1b1e4683ec8c106f5053e8f2efc19c2.jpg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supernhilty&label=Profile%20views&color=0e75b6&style=flat" alt="supernhilty" /> </p>
