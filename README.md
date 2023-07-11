@@ -4,8 +4,6 @@
 <h3 align="center">"Breathe my dear"</h3>
 <img align="right" alt="peace" width="400" src="https://i.pinimg.com/564x/c1/b1/e4/c1b1e4683ec8c106f5053e8f2efc19c2.jpg"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supernhilty&label=Profile%20views&color=0e75b6&style=flat" alt="supernhilty" /> </p>
-
 - 🔭 I’m currently studying in Software Engineer major at FPT University HCMC
 
 - 🌱 I’m currently learning **.Net 6, Spring Boot, DevOps**
