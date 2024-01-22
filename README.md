@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently studying in Software Engineer major at FPT University HCMC
 
-- 🌱 I’m currently learning **.Net 6, Spring Boot, DevOps**
-
 - 📫 How to reach me **nhilty302814@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
